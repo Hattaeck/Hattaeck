@@ -21,9 +21,9 @@ Senior QA Engineer with **6+ years of experience** in testing complex distribute
 ---
 
 ### 🚀 Featured Projects
-* **[NetHealthcheck](https://github.com/Hattaeck/vtest)** — A Java-based utility designed to monitor the external reachability of VPS services and infrastructure.
+* **[NetHealthcheck](https://github.com/Hattaeck/customhealthcheck)** — A Java-based utility designed to monitor the external reachability of VPS services and infrastructure.
 * **[2.5_ci](https://github.com/Hattaeck/2.5_ci)** — Hands-on implementation of CI/CD pipelines for automated testing workflows.
-* **[Java Automation Lab](https://github.com/Hattaeck/Lessons)** — A collection of advanced Java tasks, automation patterns, and frameworks developed during my SDET transition.
+* **[Java Automation Lab](https://github.com/Hattaeck/load-school-test)** — A collection of advanced Java tasks, automation patterns, and frameworks developed during my SDET transition.
 
 ---
 
