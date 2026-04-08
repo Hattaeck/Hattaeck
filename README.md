@@ -34,7 +34,7 @@ Senior QA Engineer with **6+ years of experience** in testing complex distribute
 ---
 
 ### 📫 Get in Touch
-* **LinkedIn:** linkedin.com/in/aleksey-osipov-6a11a9195
+* **LinkedIn:** https://linkedin.com/in/aleksey-osipov-6a11a9195
 * **Telegram:** https://t.me/Osaleksey
 * 🌍 **Languages:** English (B2 Upper-Intermediate), Arabic (learning), Ukranian (native), Russian (native).
 * 🛡️ **Interests:** OPSEC, Digital Privacy, and Financial Literacy, SDET.
